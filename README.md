@@ -1,2 +1,3 @@
-# positioningExercise
-class 3
+## positioningExercise ##
+
+In class positioning exercise.
