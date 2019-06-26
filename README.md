@@ -1,3 +1,3 @@
-## positioningExercise ##
+## Positioning Exercise ##
 
-In class positioning exercise.
+In-class positioning exercise using CSS.
